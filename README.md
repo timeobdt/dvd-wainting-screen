@@ -1,6 +1,6 @@
 # dvd-wainting-screen
 A simple Dvd wainting screen
-![image](https://github.com/timeobdt/dvd-wainting-screen/assets/136178363/8a490788-53bb-4b78-a0b6-be58252ddff5)
+![dvd_example](https://github.com/timeobdt/dvd-wainting-screen/assets/136178363/2107d243-08d2-4b73-99f7-b04cf512f9ec)
 
 # Install package
 For this programme you gonna need to install pygame to make it work. For that just open a bach terminal and enter : 
